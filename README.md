@@ -6,6 +6,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Himarghya/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Himarghya/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/Himarghya/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Himarghya/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Himarghya/Leetcode/tree/master/0704-binary-search) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Himarghya/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -14,6 +15,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Himarghya/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0410-split-array-largest-sum](https://github.com/Himarghya/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Himarghya/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Himarghya/Leetcode/tree/master/0704-binary-search) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Himarghya/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -25,6 +27,7 @@
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Himarghya/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/Himarghya/Leetcode/tree/master/0410-split-array-largest-sum) |
 ## Math
 |  |
 | ------- |
@@ -33,4 +36,12 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Himarghya/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/Himarghya/Leetcode/tree/master/0410-split-array-largest-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/Himarghya/Leetcode/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
