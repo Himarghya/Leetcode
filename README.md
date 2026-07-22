@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Himarghya/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0075-sort-colors](https://github.com/Himarghya/Leetcode/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/Himarghya/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Himarghya/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Himarghya/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -61,4 +62,12 @@
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Himarghya/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Himarghya/Leetcode/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Himarghya/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
