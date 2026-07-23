@@ -2,7 +2,7 @@ class Solution {
 public:
     void reverseArray(vector<int>& arr, int start) {
         int i = start, j = arr.size() - 1;
-        while (i < j) {
+        while (i <= j) {
             swap(arr[i], arr[j]);
             i++;
             j--;
