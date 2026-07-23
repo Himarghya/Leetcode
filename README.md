@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Himarghya/Leetcode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Himarghya/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0075-sort-colors](https://github.com/Himarghya/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Himarghya/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -66,6 +67,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Himarghya/Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Himarghya/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Himarghya/Leetcode/tree/master/0088-merge-sorted-array) |
 ## Sorting
