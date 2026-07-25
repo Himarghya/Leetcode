@@ -61,6 +61,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/Himarghya/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Himarghya/Leetcode/tree/master/0344-reverse-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Himarghya/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Himarghya/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Enumeration
 |  |
@@ -79,4 +80,12 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Himarghya/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Himarghya/Leetcode/tree/master/0088-merge-sorted-array) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Himarghya/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Simulation
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Himarghya/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
