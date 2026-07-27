@@ -9,6 +9,7 @@
 | [0075-sort-colors](https://github.com/Himarghya/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Himarghya/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Himarghya/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0229-majority-element-ii](https://github.com/Himarghya/Leetcode/tree/master/0229-majority-element-ii) |
 | [0410-split-array-largest-sum](https://github.com/Himarghya/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Himarghya/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Himarghya/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -27,6 +28,7 @@
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Himarghya/Leetcode/tree/master/0229-majority-element-ii) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Himarghya/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Dynamic Programming
 |  |
@@ -53,6 +55,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Himarghya/Leetcode/tree/master/0229-majority-element-ii) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Himarghya/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Bit Manipulation
 |  |
@@ -82,6 +85,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Himarghya/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Himarghya/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0229-majority-element-ii](https://github.com/Himarghya/Leetcode/tree/master/0229-majority-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Himarghya/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Stack
 |  |
