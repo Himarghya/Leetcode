@@ -11,6 +11,7 @@
 | [0152-maximum-product-subarray](https://github.com/Himarghya/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Himarghya/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Himarghya/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0204-count-primes](https://github.com/Himarghya/Leetcode/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/Himarghya/Leetcode/tree/master/0229-majority-element-ii) |
 | [0410-split-array-largest-sum](https://github.com/Himarghya/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Himarghya/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -42,11 +43,13 @@
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Himarghya/Leetcode/tree/master/0204-count-primes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Himarghya/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Himarghya/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Himarghya/Leetcode/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Himarghya/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Greedy
 |  |
@@ -75,6 +78,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Himarghya/Leetcode/tree/master/0204-count-primes) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Himarghya/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Two Pointers
 |  |
