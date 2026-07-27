@@ -13,6 +13,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Himarghya/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0204-count-primes](https://github.com/Himarghya/Leetcode/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/Himarghya/Leetcode/tree/master/0229-majority-element-ii) |
+| [0283-move-zeroes](https://github.com/Himarghya/Leetcode/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/Himarghya/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Himarghya/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Himarghya/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -87,6 +88,7 @@
 | [0075-sort-colors](https://github.com/Himarghya/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Himarghya/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Himarghya/Leetcode/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/Himarghya/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Himarghya/Leetcode/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
