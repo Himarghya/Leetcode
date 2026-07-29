@@ -64,6 +64,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Himarghya/Leetcode/tree/master/0229-majority-element-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Himarghya/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Himarghya/Leetcode/tree/master/0567-permutation-in-string) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Himarghya/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Bit Manipulation
@@ -75,6 +76,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/Himarghya/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Himarghya/Leetcode/tree/master/0344-reverse-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Himarghya/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Himarghya/Leetcode/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Himarghya/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Himarghya/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -117,5 +119,6 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Himarghya/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Himarghya/Leetcode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
