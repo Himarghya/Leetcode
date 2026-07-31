@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Himarghya/Leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/Himarghya/Leetcode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Himarghya/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0075-sort-colors](https://github.com/Himarghya/Leetcode/tree/master/0075-sort-colors) |
@@ -63,6 +64,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Himarghya/Leetcode/tree/master/0001-two-sum) |
 | [0229-majority-element-ii](https://github.com/Himarghya/Leetcode/tree/master/0229-majority-element-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Himarghya/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Himarghya/Leetcode/tree/master/0567-permutation-in-string) |
