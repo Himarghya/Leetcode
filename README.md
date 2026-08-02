@@ -47,6 +47,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Himarghya/Leetcode/tree/master/0007-reverse-integer) |
 | [0204-count-primes](https://github.com/Himarghya/Leetcode/tree/master/0204-count-primes) |
 | [0486-predict-the-winner](https://github.com/Himarghya/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Himarghya/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
