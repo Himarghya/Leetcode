@@ -25,6 +25,7 @@
 | [0704-binary-search](https://github.com/Himarghya/Leetcode/tree/master/0704-binary-search) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Himarghya/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Himarghya/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2965-find-missing-and-repeated-values](https://github.com/Himarghya/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Himarghya/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Binary Search
 |  |
@@ -58,6 +59,7 @@
 | [0486-predict-the-winner](https://github.com/Himarghya/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Himarghya/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Himarghya/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/Himarghya/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Himarghya/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -80,6 +82,7 @@
 | [0229-majority-element-ii](https://github.com/Himarghya/Leetcode/tree/master/0229-majority-element-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Himarghya/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Himarghya/Leetcode/tree/master/0567-permutation-in-string) |
+| [2965-find-missing-and-repeated-values](https://github.com/Himarghya/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Himarghya/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Bit Manipulation
 |  |
@@ -154,6 +157,7 @@
 | [0054-spiral-matrix](https://github.com/Himarghya/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Himarghya/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Himarghya/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [2965-find-missing-and-repeated-values](https://github.com/Himarghya/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
