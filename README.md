@@ -174,4 +174,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Himarghya/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Himarghya/Leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
