@@ -1,18 +1,9 @@
 class Solution {
 public:
-int SumofSeries(int n){
-    if(n==1){
-        return 1;
-    }else if(n <= 0){
-        return 0;
-    }
-    return SumofSeries(n-1) + SumofSeries(n - 2);
-}
-
     int fib(int n) {
-        if(n == 1){
-            return 1;
+        if(n == 0|| n == 1){
+            return n;
         }
-        return SumofSeries(n - 1) + SumofSeries(n - 2); 
+        return fib(n-1) + fib(n-2);
     }
 };
