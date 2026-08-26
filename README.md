@@ -94,6 +94,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Himarghya/Leetcode/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Himarghya/Leetcode/tree/master/0037-sudoku-solver) |
+| [0138-copy-list-with-random-pointer](https://github.com/Himarghya/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Himarghya/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0229-majority-element-ii](https://github.com/Himarghya/Leetcode/tree/master/0229-majority-element-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Himarghya/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -232,6 +233,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Himarghya/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/Himarghya/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Himarghya/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Himarghya/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Himarghya/Leetcode/tree/master/0876-middle-of-the-linked-list) |
