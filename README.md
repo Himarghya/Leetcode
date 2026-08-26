@@ -170,6 +170,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Himarghya/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/Himarghya/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Himarghya/Leetcode/tree/master/0509-fibonacci-number) |
 ## Game Theory
@@ -222,4 +223,8 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Himarghya/Leetcode/tree/master/0037-sudoku-solver) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Himarghya/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
