@@ -22,6 +22,7 @@
 | [0152-maximum-product-subarray](https://github.com/Himarghya/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Himarghya/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Himarghya/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0169-majority-element](https://github.com/Himarghya/Leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Himarghya/Leetcode/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/Himarghya/Leetcode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Himarghya/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -53,6 +54,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Himarghya/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Himarghya/Leetcode/tree/master/0229-majority-element-ii) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Himarghya/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Dynamic Programming
@@ -96,6 +98,7 @@
 | [0037-sudoku-solver](https://github.com/Himarghya/Leetcode/tree/master/0037-sudoku-solver) |
 | [0138-copy-list-with-random-pointer](https://github.com/Himarghya/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Himarghya/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Himarghya/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Himarghya/Leetcode/tree/master/0229-majority-element-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Himarghya/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Himarghya/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -150,6 +153,7 @@
 | [0018-4sum](https://github.com/Himarghya/Leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Himarghya/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Himarghya/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Himarghya/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Himarghya/Leetcode/tree/master/0229-majority-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Himarghya/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Himarghya/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -193,6 +197,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Himarghya/Leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Himarghya/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Pigeonhole Principle
 |  |
@@ -206,6 +211,7 @@
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Himarghya/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Himarghya/Leetcode/tree/master/0229-majority-element-ii) |
 ## Memoization
 |  |
