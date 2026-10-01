@@ -243,4 +243,8 @@
 | [0141-linked-list-cycle](https://github.com/Himarghya/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Himarghya/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Himarghya/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Himarghya/Leetcode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
