@@ -99,6 +99,7 @@
 | [0037-sudoku-solver](https://github.com/Himarghya/Leetcode/tree/master/0037-sudoku-solver) |
 | [0138-copy-list-with-random-pointer](https://github.com/Himarghya/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Himarghya/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Himarghya/Leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Himarghya/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Himarghya/Leetcode/tree/master/0229-majority-element-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Himarghya/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -248,6 +249,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/Himarghya/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/Himarghya/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Himarghya/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Himarghya/Leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Himarghya/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Himarghya/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Himarghya/Leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -263,5 +265,10 @@
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Himarghya/Leetcode/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Himarghya/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Himarghya/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
